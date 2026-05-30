@@ -1,2 +1,24 @@
-# customer-segmentation
-Developed a machine learning model using K-Means clustering to segment customers based on purchasing behavior, demographics, and spending patterns. The project helps businesses identify target customer groups, improve marketing strategies, enhance customer engagement, and support data-driven decision-making for increased sales and customer needs   
+# Customer Segmentation Using K-Means Clustering
+
+## Overview
+
+This project uses the K-Means Clustering algorithm to segment customers based on their purchasing behavior and demographic data. The goal is to identify customer groups with similar characteristics to support targeted marketing and business decision-making.
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
+
+## Features
+
+* Data preprocessing and analysis
+* Customer segmentation using K-Means
+* Elbow Method for optimal cluster selection
+* Data visualization of customer groups
+
+## Outcome
+
+The project successfully classified customers into distinct segments, enabling businesses to better understand customer behavior and improve marketing strategies.
